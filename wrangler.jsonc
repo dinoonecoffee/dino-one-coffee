@@ -1,0 +1,9 @@
+
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "dinoonecoffee",
+  "compatibility_date": "2026-11-16",
+  "assets": {
+    "directory": "./"
+  }
+}
