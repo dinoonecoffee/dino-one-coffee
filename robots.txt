@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://dino-one-coffee.weddingcoffeecatering.workers.dev/sitemap.xml
+Sitemap: https://dinoonecoffee.weddingcatering.workers.dev/sitemap.xml
